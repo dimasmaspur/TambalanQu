@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">UAS-Moprog2020-1711501526_Dimas_Purwanto</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Tambal</string>
+    <string name="title_notifications">Bantuan</string>
+    <string name="article1">Ban bocor sering terjadi secara tiba-tiba. Bukan hanya saat berjalan, ban juga bisa kempis secara mendadak ketika mobil berada di garasi karena terkena benda tajam saat berkendara. Jika lokasi Anda dekat dengan tempat tambal ban atau bengkel, mungkin ini tidak jadi masalah.</string>
+    <string name="isiarticle1">1. Copot paku menggunakan tang\n2. Lubangi titik kebocoran\n3. Masukkan penambal dengan alat pengait\n4. Biarkan karet dan lem penambal kering</string>
+    <string name="judul1">Berikut ini adalah cara menambal ban</string>
+
+    <string name="article2">Ditengah physical distancing seperti sekarang ini, mobil atau motor yang Anda punya pasti jarang digunakan. Anda perlu untuk memberikan perawatan ekstra meskipun tidak digunakan. banyak masalah yang timbul jika sepeda motor terlalu lama didiamkan di dalam garasi rumah. Salah satunya adalah bagian ban.</string>
+    <string name="judul2">Berikut ini 5 cara merawat ban</string>
+    <string name="isiarticle2">1. Tekanan Ban\nAgar karet ban tidak cepat retak dan pecah apalagi ban yang berusia 3-5 tahun, perhatikan tekanan angin pada ban. Jangan terlalu keras, cukup berada di kisarang angka 25 Psi.
+
+        \n\n2. Isi Pakai Nitrogen\nNitrogen punya banyak manfaat ketimbang angin biasa. Selain punya suhu yang stabil, penggunaan nitrogen bisa membuat bagian dalam ban tidak lembab yang dapat menyebabkan korosi di velg.
+
+\n\n3. Standar Tengah\nSaat memarkir sepeda motor, usahakan menggunakan standar tengah atau standar dua. Hal ini untuk menjaga tekanan ban seimbang dan tidak berat sebelah jika di standar samping.
+
+\n\n4. Perhatikan Alas Ban\nPastikan ban tidak menapak pada permukaan yang berminyak atau genangan bahan bakar. Hal ini untuk mencegah ban cepat menggembung.
+
+\n\n5. Gunakan Berkeliling\nJika memungkinkan, gunakan untuk berkeliling sekitar 10-15 menit setelah motor didiamkan kurang lebih tiga hari. Hal ini akan membuat kondisi karet tetap elastis sehingga tidak mudah retak.</string>
+    <string name="article3"> Ban mempunyai fungsi vital bagi sepeda motor dengan keselamatan, padahal hanya seluas telapak tangan saja menanggung kita dan kontakdengan jalan. Berikut tips memilih ban sesuai kebutuhan.\n
+\nMemilih ban yang cocok bagi kita yang tinggal di Indonesia, gampang-gampang susah. Jangankan kita sebagai konsumen, pabrikan pun setengah mati membuat ban sepeda motor yang cocok di Indonesia. \n\nMaklum selain iklim yang ekstrem, panas dan hujan yang basah, seringkali terjadi dalam waktu berdekatan. Cuaca demikian memperpendek usia pakai ban.Cuaca juga membuat kondisi jalan mudah rusak dan lalu lintasnya yang seringkali macet.
+
+\n\nBelum termasuk faktor pengendara, seperti cara mengerem, gaya membaawa motor, beban yang di bawa, jarak tempuh motor yang sering berlebihan.
+
+    Masalah kompon lunak atau keras cukup melihat usia pakainya. Ban yang cepat gundul dipastikan berkompon lunak, yang keras dipastikan lebih awet. Tetapi ban yang lebih awet pastinya harganya akan lebih mahal.
+
+Ciri ban basah yaitu ban dengan kembangan yang banyak dan beralur V yang fungsinya untuk memudahkan pembuangan air secepatnya ketika melintasi jalanan yang basah.\n\n
+
+Sementara ban kering didefinisikan sebagai ban dengan kembangan yang jarang meski terdapat alur V yang sedikit, seperti pada ban motosport untuk road race misalnya.
+       \n\n
+Dengan demikian, ban yang sebenarnya pas untuk harian adalah ban basah. Sebab meski di musim kering tetapi jalanan Indonesia terkadang berlubang, ban dengan kembangan banyak akan membuatnya tetap bertraksi. Soal ukuran ban, ikuti saja rekomendasi pabrikan.
+    </string>
+
+    <string name="article4">
+        Informasi mengenai daftar ban motor terbaik dan terlaris yang saat ini banyak dijual di Indonesia. Mau tahu? Yuk, kita simak ulasannya di bawah ini!\n
+
+    </string>
+    <string name="judul4">Daftar ban motor terbaik :</string>
+
+    <string name="isi4">1. Ban Motor IRC\n2. Ban Motor Bridgestone\n3. Ban Motor Michelin\n4. Ban Motor Dunlop\n5. Ban Motor Pirelli\n6. Ban Motor Corsa\n7. Ban Motor Swallow
+\n8. Ban Motor FDR\n</string>
+</resources>
