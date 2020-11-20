@@ -1,5 +1,4 @@
 # TambalanQu
-Aplikasi pencarian bengkel tambal ban terdekat
 
 
 ## Aplikasi pencarian bengkel tambal ban terdekat.
